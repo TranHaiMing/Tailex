@@ -1,0 +1,5 @@
+# default.custom.yaml
+
+patch:
+  schema_list:
+    - schema: tailex
